@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description/>
+        <name>x_871666_to_do_to_do</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-30 20:46:55</sys_created_on>
+        <sys_id>2a882d8b97e111100e6b35371153afc6</sys_id>
+        <sys_name>x_871666_to_do_to_do</sys_name>
+        <sys_package display_value="To Do" source="x_871666_to_do">3064c18b976111100e6b35371153afa2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">3064c18b976111100e6b35371153afa2</sys_scope>
+        <sys_update_name>sys_security_acl_2a882d8b97e111100e6b35371153afc6</sys_update_name>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

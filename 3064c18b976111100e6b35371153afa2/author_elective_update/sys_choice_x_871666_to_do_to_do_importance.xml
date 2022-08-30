@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="importance" table="x_871666_to_do_to_do" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>importance</element>
+            <name>x_871666_to_do_to_do</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-30 20:57:22</sys_created_on>
+            <sys_name>importance</sys_name>
+            <sys_package display_value="To Do" source="x_871666_to_do">3064c18b976111100e6b35371153afa2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="To Do">3064c18b976111100e6b35371153afa2</sys_scope>
+            <sys_update_name>sys_choice_x_871666_to_do_to_do_importance</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>importance</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not Important</label>
+            <language>en</language>
+            <name>x_871666_to_do_to_do</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-30 20:57:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>not_important</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>importance</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Important</label>
+            <language>en</language>
+            <name>x_871666_to_do_to_do</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-30 20:57:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>important</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>importance</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Very Important</label>
+            <language>en</language>
+            <name>x_871666_to_do_to_do</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-08-30 20:57:22</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>very_important</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
