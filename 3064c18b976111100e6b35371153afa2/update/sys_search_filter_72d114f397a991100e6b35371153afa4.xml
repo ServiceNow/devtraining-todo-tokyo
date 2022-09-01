@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="To Do">bed114f397a991100e6b35371153af71</ais_search_source>
+        <label>To Do</label>
+        <name>To Do</name>
+        <order>100</order>
+        <search_context_config display_value="To Do Workspace AI Search Configuration">78d190f3b2a991109b9fab5f8bc69b67</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 22:23:38</sys_created_on>
+        <sys_id>72d114f397a991100e6b35371153afa4</sys_id>
+        <sys_name>To Do</sys_name>
+        <sys_package display_value="To Do" source="x_871666_to_do">3064c18b976111100e6b35371153afa2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">3064c18b976111100e6b35371153afa2</sys_scope>
+        <sys_update_name>sys_search_filter_72d114f397a991100e6b35371153afa4</sys_update_name>
+    </sys_search_filter>
+</record_update>

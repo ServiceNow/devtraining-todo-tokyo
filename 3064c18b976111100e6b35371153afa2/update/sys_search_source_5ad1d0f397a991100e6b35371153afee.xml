@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_source">
+    <sys_search_source action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <condition table="x_871666_to_do_to_do_project">active=true</condition>
+        <group/>
+        <name>To Do Workspace - x_871666_to_do_to_do_project</name>
+        <roles/>
+        <source_table>x_871666_to_do_to_do_project</source_table>
+        <sys_class_name>sys_search_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 22:23:36</sys_created_on>
+        <sys_id>5ad1d0f397a991100e6b35371153afee</sys_id>
+        <sys_name>To Do Workspace - x_871666_to_do_to_do_project</sys_name>
+        <sys_package display_value="To Do" source="x_871666_to_do">3064c18b976111100e6b35371153afa2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">3064c18b976111100e6b35371153afa2</sys_scope>
+        <sys_update_name>sys_search_source_5ad1d0f397a991100e6b35371153afee</sys_update_name>
+    </sys_search_source>
+    <sys_translated_text action="delete_multiple" query="documentkey=5ad1d0f397a991100e6b35371153afee"/>
+</record_update>

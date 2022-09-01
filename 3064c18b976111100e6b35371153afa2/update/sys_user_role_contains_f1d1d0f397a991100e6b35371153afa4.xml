@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_871666_to_do.user" name="x_871666_to_do.user">4564c18b976111100e6b35371153afd3</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 22:23:34</sys_created_on>
+        <sys_id>f1d1d0f397a991100e6b35371153afa4</sys_id>
+        <sys_name>canvas_user.x_871666_to_do.user</sys_name>
+        <sys_package display_value="To Do" source="x_871666_to_do">3064c18b976111100e6b35371153afa2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">3064c18b976111100e6b35371153afa2</sys_scope>
+        <sys_update_name>sys_user_role_contains_f1d1d0f397a991100e6b35371153afa4</sys_update_name>
+    </sys_user_role_contains>
+</record_update>

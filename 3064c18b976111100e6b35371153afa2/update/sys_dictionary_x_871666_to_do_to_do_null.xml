@@ -53,7 +53,7 @@
         <sys_scope display_value="To Do">3064c18b976111100e6b35371153afa2</sys_scope>
         <sys_update_name>sys_dictionary_x_871666_to_do_to_do_null</sys_update_name>
         <table_reference>false</table_reference>
-        <text_index>false</text_index>
+        <text_index>true</text_index>
         <unique>false</unique>
         <use_dependent_field>false</use_dependent_field>
         <use_dynamic_default>false</use_dynamic_default>
