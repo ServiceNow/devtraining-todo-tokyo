@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Delete Swipe (My To Dos)">494b947f97a991100e6b35371153af10</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Delete</label>
+        <location>leading_swipe</location>
+        <name>Delete</name>
+        <order/>
+        <parent>054b947f97a991100e6b35371153af0f</parent>
+        <parent_table>sys_sg_master_item</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 23:04:45</sys_created_on>
+        <sys_id>cd4b947f97a991100e6b35371153af10</sys_id>
+        <sys_name>Delete</sys_name>
+        <sys_package display_value="To Do" source="x_871666_to_do">3064c18b976111100e6b35371153afa2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">3064c18b976111100e6b35371153afa2</sys_scope>
+        <sys_update_name>sys_sg_button_instance_cd4b947f97a991100e6b35371153af10</sys_update_name>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=cd4b947f97a991100e6b35371153af10"/>
+</record_update>

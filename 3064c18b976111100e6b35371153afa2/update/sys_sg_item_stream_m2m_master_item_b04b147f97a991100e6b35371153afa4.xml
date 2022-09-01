@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_master_item">
+    <sys_sg_item_stream_m2m_master_item action="INSERT_OR_UPDATE">
+        <item_stream display_value="384b147f97a991100e6b35371153af92 Item Stream">b04b147f97a991100e6b35371153afa2</item_stream>
+        <master_item display_value="To Do Projects Form Screen Master Item">744b147f97a991100e6b35371153afa3</master_item>
+        <sys_class_name>sys_sg_item_stream_m2m_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 23:04:44</sys_created_on>
+        <sys_id>b04b147f97a991100e6b35371153afa4</sys_id>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_871666_to_do">3064c18b976111100e6b35371153afa2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">3064c18b976111100e6b35371153afa2</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_master_item_b04b147f97a991100e6b35371153afa4</sys_update_name>
+    </sys_sg_item_stream_m2m_master_item>
+</record_update>

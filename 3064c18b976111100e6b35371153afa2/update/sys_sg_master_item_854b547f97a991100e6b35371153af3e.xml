@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_871666_to_do_to_do</datasource_table>
+        <datasource_table_condition/>
+        <embedded_screen display_value="Active To Dos Form Screen">894b547f97a991100e6b35371153af3c</embedded_screen>
+        <item_view/>
+        <name>Active To Dos Form Screen Master Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 23:04:45</sys_created_on>
+        <sys_id>854b547f97a991100e6b35371153af3e</sys_id>
+        <sys_name>Active To Dos Form Screen Master Item</sys_name>
+        <sys_package display_value="To Do" source="x_871666_to_do">3064c18b976111100e6b35371153afa2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">3064c18b976111100e6b35371153afa2</sys_scope>
+        <sys_update_name>sys_sg_master_item_854b547f97a991100e6b35371153af3e</sys_update_name>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Active To Dos List Screen View Config">b44b147f97a991100e6b35371153afb5</view_config>
+    </sys_sg_master_item>
+</record_update>

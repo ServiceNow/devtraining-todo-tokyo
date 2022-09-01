@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>My To Dos Data Item</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition table="x_871666_to_do_to_do">assigned_toDYNAMIC90d1921e5f510100a9ad2572f2b477fe<item endquery="false" field="assigned_to" goto="false" newquery="false" operator="DYNAMIC" or="false" value="90d1921e5f510100a9ad2572f2b477fe"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 23:04:45</sys_created_on>
+        <sys_id>014b547f97a991100e6b35371153af7a</sys_id>
+        <sys_name>My To Dos Data Item</sys_name>
+        <sys_package display_value="To Do" source="x_871666_to_do">3064c18b976111100e6b35371153afa2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">3064c18b976111100e6b35371153afa2</sys_scope>
+        <sys_update_name>sys_sg_data_item_014b547f97a991100e6b35371153af7a</sys_update_name>
+        <table>x_871666_to_do_to_do</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=014b547f97a991100e6b35371153af7a"/>
+</record_update>

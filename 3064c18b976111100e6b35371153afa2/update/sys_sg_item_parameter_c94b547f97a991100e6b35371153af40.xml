@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_parameter">
+    <sys_sg_item_parameter action="INSERT_OR_UPDATE">
+        <default_value/>
+        <name>Active To Dos assigned_to</name>
+        <parent>854b547f97a991100e6b35371153af40</parent>
+        <parent_table>sys_sg_write_back_action_item</parent_table>
+        <sys_class_name>sys_sg_item_parameter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 23:04:45</sys_created_on>
+        <sys_id>c94b547f97a991100e6b35371153af40</sys_id>
+        <sys_name>Active To Dos assigned_to</sys_name>
+        <sys_package display_value="To Do" source="x_871666_to_do">3064c18b976111100e6b35371153afa2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">3064c18b976111100e6b35371153afa2</sys_scope>
+        <sys_update_name>sys_sg_item_parameter_c94b547f97a991100e6b35371153af40</sys_update_name>
+        <type>string</type>
+    </sys_sg_item_parameter>
+</record_update>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="054b547f97a991100e6b35371153af3c Item Stream">c94b547f97a991100e6b35371153af3d</item_stream>
+        <segment display_value="Active To Dos Item Stream Segment">454b547f97a991100e6b35371153af3d</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 23:04:45</sys_created_on>
+        <sys_id>414b547f97a991100e6b35371153af3e</sys_id>
+        <sys_name/>
+        <sys_package display_value="To Do" source="x_871666_to_do">3064c18b976111100e6b35371153afa2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">3064c18b976111100e6b35371153afa2</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_414b547f97a991100e6b35371153af3e</sys_update_name>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>
