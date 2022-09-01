@@ -21,7 +21,7 @@
         <group/>
         <hide_sp>false</hide_sp>
         <icon/>
-        <ignore_price>false</ignore_price>
+        <ignore_price>true</ignore_price>
         <image/>
         <location/>
         <mandatory_attachment>false</mandatory_attachment>
