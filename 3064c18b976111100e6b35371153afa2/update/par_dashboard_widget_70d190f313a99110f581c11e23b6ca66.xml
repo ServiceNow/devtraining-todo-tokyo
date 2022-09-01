@@ -2,7 +2,7 @@
     <par_dashboard_widget action="INSERT_OR_UPDATE">
         <canvas display_value="">38d190f351a9911030b98cd04ae3af64</canvas>
         <component display_value="">3a64f550256090d9578ede76158e899c</component>
-        <component_props>{"variant":"header-tertiary","label":"Happening now","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props>
+        <component_props>{"variant":"header-tertiary","label":"To Do Counts","wontWrap":false,"hasNoMargin":false,"level":"1"}</component_props>
         <h>2</h>
         <name/>
         <sys_class_name>par_dashboard_widget</sys_class_name>
