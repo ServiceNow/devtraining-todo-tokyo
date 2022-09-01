@@ -13,7 +13,7 @@
         <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
         <delivery_plan_script/>
         <delivery_time>1970-01-03 00:00:00</delivery_time>
-        <description/>
+        <description><![CDATA[<p><img style="float: right;" src="https://dev59855.service-now.com/sys_attachment.do?sys_id&#61;cd49803b976991100e6b35371153aff2" alt="" width="76" height="71" />Create To Do items for Home, Work, or School.</p>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
         <flow_designer_flow/>
@@ -124,4 +124,43 @@
         <table>sc_cat_item_producer</table>
         <type>calculated</type>
     </fx_price>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>checklist.png</file_name>
+        <hash>d2773d468fc8e4c16c443857e71c50dd0b91b735b96edb78c64454f57bcbda27</hash>
+        <image_height/>
+        <image_width/>
+        <size_bytes>2551</size_bytes>
+        <size_compressed>2574</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 21:46:06</sys_created_on>
+        <sys_id>cd49803b976991100e6b35371153aff2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-01 21:46:07</sys_updated_on>
+        <table_name>ZZ_YYsc_cat_item_producer</table_name>
+        <table_sys_id>c5e7447b976991100e6b35371153afe9</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="checklist.png" sys_id="cd49803b976991100e6b35371153aff2">cd49803b976991100e6b35371153aff2</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 21:46:06</sys_created_on>
+        <sys_id>0149803b976991100e6b35371153aff3</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>3420</length>
+        <position>1</position>
+        <sys_attachment display_value="checklist.png" sys_id="cd49803b976991100e6b35371153aff2">cd49803b976991100e6b35371153aff2</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-09-01 21:46:06</sys_created_on>
+        <sys_id>8149803b976991100e6b35371153aff3</sys_id>
+    </sys_attachment_doc>
 </record_update>
