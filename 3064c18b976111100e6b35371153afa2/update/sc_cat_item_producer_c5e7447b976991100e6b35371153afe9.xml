@@ -41,7 +41,7 @@
         <no_quantity>false</no_quantity>
         <no_quantity_v2>false</no_quantity_v2>
         <no_search>false</no_search>
-        <no_wishlist_v2>false</no_wishlist_v2>
+        <no_wishlist_v2>true</no_wishlist_v2>
         <omit_price>false</omit_price>
         <order>0</order>
         <ordered_item_link/>
